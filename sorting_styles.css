@@ -1,0 +1,24 @@
+img{
+}
+
+pre{
+    font-size: 14px !important;
+}
+
+.result-snippet{
+    background-color: rgba(0,0,0,.5) ;
+    border-style:groove;
+    border-color: rgba(255,255,255,.5);
+    border-radius: 15px;
+}
+
+.sort{
+    min-width: 400px;
+    max-height: 200px;
+    width: auto;
+
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
