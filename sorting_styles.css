@@ -15,10 +15,14 @@ pre{
 .sort{
     min-width: 400px;
     max-height: 200px;
-    width: auto;
 
     border-radius: 20px;
     display: block;
     margin: auto;
-    padding: 10px;
+}
+
+.sort-anim{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
